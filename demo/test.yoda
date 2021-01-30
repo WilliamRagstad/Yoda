@@ -1,0 +1,17 @@
+
+( (.7, (k)parseFloat.Number )add + "Addition test: ")log.console;
+
+"91.2" = k
+
+{
+    ("My bool is true :D")log.console;
+}
+if (bool)
+false = bool;
+{
+    return c + b;
+    10 - a = c;
+    // Return expression is at the top, and all calulations are below.
+} function add(a, b)
+
+true = bool;
